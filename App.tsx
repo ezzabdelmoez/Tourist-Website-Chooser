@@ -148,8 +148,8 @@ function App() {
         <footer className="text-center bg-white/5 backdrop-blur-md p-8 rounded-3xl mt-16">
           <h3 className="text-3xl font-bold mb-4">📞 للاستفسار وبدء المشروع</h3>
           <div className="text-lg space-y-2 text-white/90">
-            <p>📧 البريد الإلكتروني: info@yourcompany.com</p>
-            <p>📱 الهاتف: 01XXXXXXXXX</p>
+            <p>📧 البريد الإلكتروني: ezzabdelmoez@gmail.com</p>
+            <p>📱 الهاتف: +201014080630</p>
           </div>
           <p className="mt-6 text-xl">⭐ نحن جاهزون لتحويل رؤيتك إلى واقع رقمي ناجح</p>
         </footer>
